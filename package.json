@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "build": "next build",
+    "preinstall": "npx envinfo --binaries",
+    "build": "npm_config_user_agent=npm next build",
     "dev": "next dev",
     "lint": "next lint",
     "start": "next start"
