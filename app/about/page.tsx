@@ -36,7 +36,7 @@ export default function AboutPage() {
             <div className="order-2 lg:order-1">
               <div className="aspect-[4/5] bg-gray-300 rounded-lg overflow-hidden">
                 <Image
-                  src="/imah1.jpg"
+                  src="./imah1.jpg"
                   alt="About Yuvraj Chavhan"
                   width={480}
                   height={600}

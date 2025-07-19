@@ -41,7 +41,7 @@ export default function HomePage() {
               preload="auto"
               className="w-full h-full object-cover"
             >
-              <source src="/web.mp4" type="video/mp4" />
+              <source src="./web.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
           </div>
@@ -75,7 +75,7 @@ export default function HomePage() {
                 >
                   {/* Background image */}
                   <img
-                    src="/Tangent.png"
+                    src="./Tangent.png"
                     alt="TangentGC"
                     className="absolute inset-0 w-full h-full object-cover opacity-90 group-hover:opacity-100 transition-opacity duration-300"
                   />
@@ -92,7 +92,7 @@ export default function HomePage() {
                   className="relative aspect-[4/3] flex items-center justify-center rounded-sm overflow-hidden group hover:scale-105 hover:shadow-lg transition-all duration-300 cursor-pointer"
                 >
                   <img
-                    src="/Zeroco.png"
+                    src="./Zeroco.png"
                     alt="ZeroCO"
                     className="absolute inset-0 w-full h-full object-cover opacity-90 group-hover:opacity-100 transition-opacity duration-300"
                   />
@@ -107,7 +107,7 @@ export default function HomePage() {
                   className="relative aspect-[4/3] flex items-center justify-center rounded-sm overflow-hidden group hover:scale-105 hover:shadow-lg transition-all duration-300 cursor-pointer"
                 >
                   <img
-                    src="/Portronics.jpg"
+                    src="./Portronics.jpg"
                     alt="Portronics"
                     className="absolute inset-0 w-full h-full object-cover opacity-90 group-hover:opacity-100 transition-opacity duration-300"
                   />

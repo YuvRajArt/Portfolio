@@ -1,6 +1,7 @@
 {
   "name": "my-v0-project",
   "version": "0.1.0",
+  "homepage": "https://yuvrajart.github.io/Portfolio/",
   "private": true,
   "scripts": {
     "preinstall": "npm config set registry https://registry.npmjs.org/",

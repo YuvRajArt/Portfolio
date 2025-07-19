@@ -43,7 +43,7 @@ export default function WorkPage() {
               >
                 {/* Background image */}
                 <img
-                  src="/Tangent.png"
+                  src="./Tangent.png"
                   alt="TangentGC"
                   className="absolute inset-0 w-full h-full object-cover opacity-90 group-hover:opacity-100 transition-opacity duration-300"
                 />
@@ -57,7 +57,7 @@ export default function WorkPage() {
                 className="relative aspect-[4/3] flex items-center justify-center rounded-sm overflow-hidden group hover:scale-105 hover:shadow-lg transition-all duration-300 cursor-pointer"
               >
                 <img
-                  src="/Zeroco.png"
+                  src="./Zeroco.png"
                   alt="ZeroCO"
                   className="absolute inset-0 w-full h-full object-cover opacity-90 group-hover:opacity-100 transition-opacity duration-300"
                 />
@@ -69,7 +69,7 @@ export default function WorkPage() {
                 className="relative aspect-[4/3] flex items-center justify-center rounded-sm overflow-hidden group hover:scale-105 hover:shadow-lg transition-all duration-300 cursor-pointer"
               >
                 <img
-                  src="/Portronics.jpg"
+                  src="./Portronics.jpg"
                   alt="Portronics"
                   className="absolute inset-0 w-full h-full object-cover opacity-90 group-hover:opacity-100 transition-opacity duration-300"
                 />

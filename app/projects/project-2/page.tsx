@@ -8,13 +8,13 @@ export default function Project2Page() {
   const [selectedImage, setSelectedImage] = useState<string | null>(null);
 
   const stillImages = [
-    "/Zeroco.png",
-    "/Zeroco (1).png",
-    "/Zeroco (2).png",
-    "/Zeroco (3).png",
-    "/Zeroco (4).png",
-    "/Zeroco (5).png",
-    "/Zeroco (7).png",
+    "./Zeroco.png",
+    "./Zeroco (1).png",
+    "./Zeroco (2).png",
+    "./Zeroco (3).png",
+    "./Zeroco (4).png",
+    "./Zeroco (5).png",
+    "./Zeroco (7).png",
   ];
 
   return (

@@ -36,7 +36,7 @@ export default function ContactPage() {
             <div className="order-2 lg:order-1">
               <div className="aspect-[4/3] bg-gray-300 rounded-lg overflow-hidden z-2">
                 <Image
-                  src="/Image2.jpeg"
+                  src="./Image2.jpeg"
                   alt="Contact Yuvraj Chavhan"
                   width={640}
                   height={480}
